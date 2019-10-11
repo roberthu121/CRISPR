@@ -2,9 +2,6 @@
  * File: CRISPR_Off-Target_Predictor.cpp
  * ----------------
  * Robert Hu
- * roberthu
- * CS 106X
- * Trey Connelly 4:30 pm
  *
  * Predicts the sites of potential off-target edits by CRISPR/Cas9
  * editing given a guide RNA strand and the genome to be tested. Also
